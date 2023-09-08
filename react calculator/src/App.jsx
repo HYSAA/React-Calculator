@@ -79,16 +79,6 @@ const App = () => {
   {mul && `Result: ${mul}`}
   {divide && `Result: ${divide}`}
 </h2>
-
-<add  handleAddition onset button onClicks
-    add useCallback(
-      () => {
-         firstNumber 
-      },
-      [second],
-      secondNumber
-    )
-    
     </div>
   );
 };
